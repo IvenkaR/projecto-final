@@ -1,0 +1,114 @@
+﻿ID_Prod;ID_Cat;ID_Puesto;Nombre_Prod;Moneda;Precio_Prod;Stock_Prod
+1;1;15;Accesorios para el cabello artesanales;Dolar;30;45138
+2;1;34;Bisutería con materiales reciclados;Dolar;12;47102
+3;1;12;Bisutería con piedras naturales;Dolar;28;70651
+4;1;29;Bolsos de tela estampada;Dolar;10;21393
+5;1;26;Bolsos y carteras de cuero;Dolar;51;37534
+6;1;25;Broches de cerámica;Dolar;25;37418
+7;1;8;Broches y pines decorativos;Dolar;47;30194
+8;1;22;Cinturones de cuero decorados;Dolar;10;53933
+9;1;25;Collares de conchas marinas;Dolar;17;65805
+10;1;6;Collares para mascotas;Dolar;34;77085
+11;1;16;Diademas y coronas florales;Dolar;57;72722
+12;1;45;Foulards pintados a mano;Dolar;24;35294
+13;1;43;Gafas de sol artesanales;Dolar;44;65356
+14;1;23;Gemelos para camisas;Dolar;53;23435
+15;1;40;Collares;Dolar;25;26246
+16;1;16;Pulseras;Dolar;32;54566
+17;1;38;Pendientes;Dolar;45;45698
+18;1;7;Joyería de plata martillada;Dolar;31;38308
+19;1;33;Llaveros personalizados;Dolar;13;95296
+20;1;6;Pendientes y colgantes de macramé;Dolar;10;68390
+21;1;2;Pulseras y anillos de metal;Dolar;27;50460
+22;1;31;Sombreros y gorras tejidos;Dolar;41;36044
+23;2;33;Adornos para el árbol de Navidad;Dolar;13;59218
+24;2;16;Arte en papel maché;Dolar;25;68951
+25;2;39;Vasos en vidrio;Dolar;14;33480
+26;2;36;lámparas en vidrio;Dolar;17;66738
+27;2;3;Vitrales en vidrio;Dolar;30;51803
+28;2;5;Candelabros;Dolar;33;18352
+29;2;32;Platos de Céramica;Dolar;22;35521
+30;2;30;Jarrones de Céramica;Dolar;51;70823
+31;2;11;Tazas de Céramica;Dolar;45;58881
+32;2;43;Cuadros pintados a mano;Dolar;60;91005
+33;2;12;Esculturas de arcilla;Dolar;33;60333
+34;2;24;Esculturas de madera;Dolar;37;82951
+35;2;40;Esculturas en metal;Dolar;36;85034
+36;2;9;Esculturas en piedra;Dolar;43;60083
+37;2;12;Fotografías enmarcadas;Dolar;16;41383
+38;2;30;Fuentes de agua decorativas;Dolar;59;12006
+39;2;41;Jarrones de cerámica;Dolar;9;40961
+40;2;4;Letras decorativas para pared;Dolar;47;48810
+41;2;28;Marcos de fotos decorativos;Dolar;18;89653
+42;2;2;Mosaicos decorativos;Dolar;46;18332
+43;2;24;Banderas en tela;Dolar;26;61358
+44;2;31;Tapices en tela;Dolar;30;54145
+45;2;6;Tapices con motivos étnicos;Dolar;16;73799
+46;2;5;Tapices decorativos;Dolar;5;95549
+47;2;40;Títeres y marionetas decorativas;Dolar;33;40323
+48;3;35; Ropa para mascotas tejida;Dolar;8;71772
+49;3;34;Alfombras de nudos;Dolar;13;25843
+50;3;24;Alfombras tejidas a mano;Dolar;5;99581
+51;3;19;Bolsas de tela pintadas a mano;Dolar;40;43245
+52;3;14;Bolsos de fieltro;Dolar;43;92309
+53;3;15;Bolsos de ganchillo;Dolar;56;92157
+54;3;10;Bolsos de tela estampada;Dolar;33;54767
+55;3;7;Calcetines de lana;Dolar;26;53194
+56;3;43;Camisetas estampadas a mano;Dolar;30;34835
+57;3;45;Chales de lana;Dolar;48;53857
+58;3;28;Cojines de punto;Dolar;56;79304
+59;3;37;Colchas y mantas tejidas;Dolar;5;67387
+60;3;36;Cortinas bordadas;Dolar;42;99620
+61;3;1;Fundas de almohada bordadas;Dolar;33;30969
+62;3;13;Guantes tejidos;Dolar;33;36758
+63;3;21;Muñecas de trapo;Dolar;13;41494
+64;3;16;Ropa teñida a mano;Dolar;33;79080
+65;3;23;Tapices decorativos;Dolar;6;96546
+66;3;2;Bufandas a Crochet;Dolar;41;85776
+67;3;45;Gorros a Crochet;Dolar;57;13930
+68;3;31;Mantas a Crochet;Dolar;57;80427
+69;3;10;Vestidos de crochet;Dolar;54;60947
+70;4;21;Alfombras tejidas a mano;Dolar;59;80169
+71;4;15;Artesanía en corcho;Dolar;11;18347
+72;4;14;Bolsas de tela reutilizables;Dolar;30;74120
+73;4;36;Cajas decorativas;Dolar;50;54614
+74;4;2;Camisetas estampadas a mano;Dolar;58;15165
+75;4;4;Cestas;Dolar;34;21970
+76;4;6;Bandejas;Dolar;19;71657
+77;4;36;lámparas;Dolar;58;50156
+78;4;17;Cojines decorativos;Dolar;47;98833
+79;4;8;Cucharas de madera esculpidas;Dolar;34;78208
+80;4;9;Delantales bordados;Dolar;52;81771
+81;4;45;Jabones naturales;Dolar;40;41043
+82;4;30;Jarras de cerámica;Dolar;15;21673
+83;4;29;Juegos de té pintados a mano;Dolar;22;99979
+84;4;7;Manteles bordados;Dolar;23;40869
+85;4;11;Portavelas de cerámica;Dolar;18;77994
+86;4;41;Servilleteros decorativos;Dolar;27;25067
+87;4;40;Tablas de cortar de madera;Dolar;53;84985
+88;4;4;Tapices con motivos étnicos;Dolar;14;92087
+89;4;10;Tazas y platos pintados a mano;Dolar;14;32381
+90;4;12;Tazones de madera tallada;Dolar;54;34216
+91;4;4;Velas aromáticas;Dolar;41;44007
+92;5;38;Aviones y barcos de juguete;Dolar;51;92032
+93;5;24;Carruseles de papel;Dolar;55;53148
+94;5;12;Espadas y escudos de madera para niños;Dolar;25;32576
+95;5;32;Flautas;Dolar;38;74160
+96;5;21;Tambores;Dolar;41;47320
+97;5;28;Instrumentos musicales de percusión;Dolar;10;40421
+98;5;15;Juegos de bolos de madera;Dolar;54;64163
+99;5;24;Juegos de mesa artesanales;Dolar;11;48189
+100;5;27;Juguetes de construcción hechos con materiales naturales;Dolar;42;31209
+101;5;11;Juguetes de madera;Dolar;50;52286
+102;5;29;Juguetes de trapo;Dolar;34;27626
+103;5;23;Juguetes educativos;Dolar;20;28966
+104;5;3;Marionetas de dedo;Dolar;60;65663
+105;5;35;Marionetas de guante;Dolar;19;19542
+106;5;11;Marionetas de hilos;Dolar;24;92652
+107;5;11;Marionetas de sombras;Dolar;12;82200
+108;5;32;Casas en Miniatura;Dolar;42;36546
+109;5;27;Muebles en Miniatura;Dolar;50;96848
+110;5;12;Muñecos de tela;Dolar;50;56772
+111;5;16;Puzzles de madera tallada;Dolar;54;93028
+112;5;26;Títeres y marionetas;Dolar;16;44332
+113;5;30;Trompos de madera;Dolar;17;18765
